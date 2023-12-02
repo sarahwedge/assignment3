@@ -1,0 +1,20 @@
+Apple - 59
+Banana - 151
+Grapes - 100
+Strawberries - 53
+Cereal - 125
+Broccoli - 45
+Asparagus - 45
+Carrots - 50
+Lettuce - 50
+Beef - 142
+Chicken - 136
+Egg - 78
+Fish - 136
+Bread - 75
+Hamburger - 250
+Rice - 206
+Potato - 130
+Sandwich - 200
+Milk - 122
+Orange Juice - 111
